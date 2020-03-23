@@ -49,7 +49,6 @@ window.onload = function() {
   }
 
   showTime();
-  bewegendePlaneten();
 
   //hier update hij de functie na elke seconde
   setInterval(function() {
